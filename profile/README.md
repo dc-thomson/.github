@@ -1,12 +1,7 @@
-## Hi there 👋
+# Inspiring people. Creating the future.
 
-<!--
+### DC Thomson and its brands deliver the content you want.
 
-**Here are some ideas to get you started:**
+Our brands have been at the heart of everyday life for generations. We are passionate about our readers and their communities. We know what matters to them. We’re respected and trusted to deliver fulfilling, inspiring and relevant content that enhances the experiences of our partners and audiences.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Whether for our consumers, clients or creators, we’re at the forefront of change, stimulating the imagination, producing dynamic, compelling content, products and experiences that really deliver.
